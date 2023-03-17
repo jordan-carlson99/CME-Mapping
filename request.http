@@ -1,3 +1,0 @@
-###
-
-GET https://api.nasa.gov/DONKI/CME?startDate=2023-03-01&endDate=2023-03-08&api_key=DEMO_KEY
