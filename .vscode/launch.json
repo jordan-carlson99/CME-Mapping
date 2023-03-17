@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "firefox",
+      "request": "launch",
+      "name": "Launch My Firefox",
+      "url": "http://127.0.0.1:5500/",
+      "webRoot": "${workspaceFolder}",
+      "timeout": 90000,
+      "tmpDir": "~/dr1nk3ms/temp"
+    }
+  ]
+}
