@@ -2,7 +2,7 @@
 
 ## Capture Coronal Mass Ejections using NASA's DONKI API
 
-### https://jordan-carlson99.github.io/frontend-project/
+### https://jordan-carlson99.github.io/CME-Mapping/
 
 ### Dependencies:
 
